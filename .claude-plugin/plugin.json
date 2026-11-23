@@ -11,6 +11,9 @@
   "repository": "https://github.com/ChatSee/chatsee-skills",
   "license": "MIT",
   "privacyPolicyUrl": "https://www.chatsee.ai/privacy-policy",
+  "termsOfServiceUrl": "https://www.chatsee.ai/terms-of-service",
+  "supportUrl": "mailto:support@chatsee.ai",
+  "documentationUrl": "https://github.com/ChatSee/chatsee-skills#readme",
   "keywords": [
     "chatsee",
     "observability",
