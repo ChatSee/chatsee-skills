@@ -1,0 +1,14 @@
+{
+  "name": "chatsee",
+  "owner": { "name": "ChatSee", "email": "contact@chatsee.ai" },
+  "metadata": {
+    "description": "ChatSee's plugins for coding agents: monitor a deployed AI agent and fix its failures without leaving the editor."
+  },
+  "plugins": [
+    {
+      "name": "chatsee-skills",
+      "source": "./",
+      "description": "Monitor and fix your AI agent from your coding agent: telemetry setup, Guardian queries, prompt remediations and code-level fixes over one ChatSee MCP. Requires a ChatSee account."
+    }
+  ]
+}
