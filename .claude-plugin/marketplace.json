@@ -1,6 +1,6 @@
 {
   "name": "chatsee",
-  "owner": { "name": "ChatSee", "email": "contact@chatsee.ai" },
+  "owner": { "name": "ChatSee", "email": "support@chatsee.ai" },
   "metadata": {
     "description": "ChatSee's plugins for coding agents: monitor a deployed AI agent and fix its failures without leaving the editor."
   },

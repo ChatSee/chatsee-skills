@@ -65,10 +65,11 @@ project locally, and only when you ask. What reaches ChatSee is what the table a
 
 - Privacy policy: <https://www.chatsee.ai/privacy-policy>
 - Terms of service: <https://www.chatsee.ai/terms-of-service>
-- Support and security issues: **contact@chatsee.ai** (please report security issues
+- Support and security issues: **support@chatsee.ai** (please report security issues
   privately, not in a public issue).
 
 ## License
 
-Apache License 2.0; see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE). The license covers this
-repository only; ChatSee's hosted services are provided under ChatSee's Terms of Service.
+MIT; see [`LICENSE`](LICENSE). The license covers this repository only; ChatSee's hosted
+services are provided under ChatSee's Terms of Service. "ChatSee" and the ChatSee logo are
+trademarks of ChatSee and are not licensed under MIT.

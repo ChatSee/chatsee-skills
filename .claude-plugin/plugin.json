@@ -9,7 +9,7 @@
   },
   "homepage": "https://chatsee.ai",
   "repository": "https://github.com/ChatSee/chatsee-skills",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "privacyPolicyUrl": "https://www.chatsee.ai/privacy-policy",
   "keywords": [
     "chatsee",
